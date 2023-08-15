@@ -1,16 +1,7 @@
-# demo
+![Screenshot_2023-08-15-10-11-19-25_f26cc2bf091616e9e921dc936c6900d2](https://github.com/umangtakoliya/clock_app/assets/138286678/acba08fd-7681-49af-96c4-49331950fa21)
+![Screenshot_2023-08-15-10-11-20-41_f26cc2bf091616e9e921dc936c6900d2](https://github.com/umangtakoliya/clock_app/assets/138286678/6ba4a99f-b39a-436f-869c-8f7c327cb2fc)
+![Screenshot_2023-08-15-10-21-51-48_f26cc2bf091616e9e921dc936c6900d2](https://github.com/umangtakoliya/clock_app/assets/138286678/ddf9fc01-1390-4437-9bf0-07740d9b00f9)
+![Screenshot_2023-08-15-11-10-56-66_f26cc2bf091616e9e921dc936c6900d2](https://github.com/umangtakoliya/clock_app/assets/138286678/8abae51b-ba01-4c3d-ae54-eceb3443468a)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
